@@ -5,6 +5,9 @@ A simple vehicle recall tool application built using HTML, CSS, and JavaScript.
 ## About
 
 This application allows users to search for vehicle recall information using the NHTSA API.
+
+[Use Vehicle Recall Tool](https://kelvinimalenowa.github.io/vehicle-recall-tool/)
+
 ## Screenshot
 
 ![Project Screenshot](assets/mockup.png)
