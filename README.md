@@ -6,7 +6,7 @@ A simple vehicle recall tool application built using HTML, CSS, and JavaScript.
 
 This application allows users to search for vehicle recall information using the NHTSA API.
 
-[Use Vehicle Recall Tool](https://kelvinimalenowa.github.io/vehicle-recall-tool/)
+[Find your Bikini Bottom Name](https://kelvinimalenowa.github.io/bikini-bottom-name-generator/)
 
 ## Screenshot
 
